@@ -34,4 +34,4 @@ Remains of Giant Spiders' Exoskeletons. Giant walls of Solidified Web. Large spi
 ## Media
 
 - **Tile Overview:** https://imgur.com/a/15aOpMe
-- **Timelapse:** 
+- **Timelapse:** https://youtu.be/FMPdPc58nd4
